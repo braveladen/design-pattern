@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.template;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/27 16:50
  * @description：模板方法类
  * 模板方法类的需求是：想规范类或接口的实现，不希望过度自由地实现接口，因此规定一个模板，把方法先实现了，在方法的内部，如果有可以变化的，可以交给子类去灵活实现。

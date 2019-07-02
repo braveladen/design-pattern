@@ -3,7 +3,7 @@ package com.cetc28.designpattern.principle.singlePrinciple;
 import java.io.*;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/24 9:00
  * @description：
  * @modified By：

@@ -3,7 +3,7 @@ package com.cetc28.designpattern.detail.behaviorType.strategy.简单策略;
 import org.springframework.stereotype.Service;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/5/22 16:09
  * @description：
  * @modified By：

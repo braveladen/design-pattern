@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.command;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/29 13:29
  * @description：命令接口
  * 命令接口的实现类就是命令，命令的作用在于：

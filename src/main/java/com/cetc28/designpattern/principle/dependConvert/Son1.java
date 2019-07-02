@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.principle.dependConvert;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/24 11:19
  * @description：
  * @modified By：

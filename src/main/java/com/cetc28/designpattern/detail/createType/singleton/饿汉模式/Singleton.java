@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.createType.singleton.饿汉模式;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/24 14:00
  * @description：饿汉模式的单例
  * 缺点是：不能延迟加载

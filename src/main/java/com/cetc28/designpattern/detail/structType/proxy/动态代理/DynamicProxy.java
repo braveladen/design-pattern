@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.structType.proxy.动态代理;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/24 18:37
  * @description：动态代理类
  * 通常我们代理接口的时候，也不会会增加他的全部方法，所以在invoke里，我们判断method的属性，来确定给哪些方法增加，比如指定的方法名、指定的方法上注解等。

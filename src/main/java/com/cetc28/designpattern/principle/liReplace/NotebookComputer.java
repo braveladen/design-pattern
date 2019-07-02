@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.principle.liReplace;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/24 9:49
  * @description：
  * @modified By：

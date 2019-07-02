@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.createType.singleton.双重校验锁;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/24 14:03
  * @description：双重校验锁单例
  * 通过volatile禁止指令重排，通过synchronized确保线程安全

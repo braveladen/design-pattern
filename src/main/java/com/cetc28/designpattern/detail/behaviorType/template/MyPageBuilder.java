@@ -3,7 +3,7 @@ package com.cetc28.designpattern.detail.behaviorType.template;
 import com.cetc28.designpattern.principle.dependConvert.AbastractUser;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/27 16:51
  * @description：模板方法的使用类，即模板方法的子类。
  * 在模板方法圈定的范围内，实现某个方法，其中包括一定要实现的抽象方法和不一定要实现的非抽象方法。

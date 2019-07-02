@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.observer.事件驱动;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/26 9:07
  * @description：作者监听器
  * 作者监听器继承自EventListener，EventListener是所有事件监听器的父类，它是一个标识类，没有方法，只是代表这是一个事件监听器。

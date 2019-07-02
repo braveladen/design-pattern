@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.structType.facade;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/28 16:44
  * @description：外观模式类
  * 外观模式是把一个子系统或者子模块中的功能，通过一个外观模式类进行整合后，再对外提供给用户或其它系统使用。

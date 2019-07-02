@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.LinkedList;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/7/2 9:48
  * @description：用迭代器的实现类
  * 下面就是使用迭代器的实现类，使用迭代器不会再遍历两遍了，原因是因为本身迭代器就用集合的内部类，它在遍历的时候就是用集合内部的属性和方法实现的。

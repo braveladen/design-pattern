@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.structType.facade;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/28 16:48
  * @description：
  * @modified By：

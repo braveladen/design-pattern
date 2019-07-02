@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.memento;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/7/1 19:43
  * @description：发起人角色
  * @modified By：

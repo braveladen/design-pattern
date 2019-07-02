@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.structType.decorator.简单例子;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/28 15:33
  * @description：装饰器类
  * 装饰器的实现原理是：

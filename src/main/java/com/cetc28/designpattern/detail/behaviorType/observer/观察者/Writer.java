@@ -3,7 +3,7 @@ package com.cetc28.designpattern.detail.behaviorType.observer.观察者;
 import java.util.Observable;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/26 8:46
  * @description：作者类
  * 被观察者需要在实现自有功能的基础上，继承Observable类，并在某些时刻调用setChanged()方法，改变被观察者状态；再调用notifyObservers()方法，通知观察者。

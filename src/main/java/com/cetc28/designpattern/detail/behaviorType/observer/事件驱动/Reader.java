@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.observer.事件驱动;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/26 9:07
  * @description：读者类
  * 读者类是真正的事件监听器，它获取事件后，

@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.mediator;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/7/1 9:50
  * @description：门派抽象类
  *

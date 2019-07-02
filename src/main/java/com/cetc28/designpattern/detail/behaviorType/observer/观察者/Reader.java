@@ -4,7 +4,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/26 8:45
  * @description：读者类
  * 观察者需要在实现自有功能的基础上，implements observer接口，实现update方法，并且提供观察被观察者的方法。

@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.observer.事件驱动;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/26 9:07
  * @description：作者类
  * 作者类是事件的产生者，也被监听器监听的对象，当作者类产生一个事件以后，通知监听器执行相关操作。

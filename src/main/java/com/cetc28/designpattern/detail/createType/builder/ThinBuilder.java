@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.createType.builder;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/7/1 18:39
  * @description：瘦分身建造者
  * @modified By：

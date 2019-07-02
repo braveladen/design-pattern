@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.structType.adapter.缺省适配器;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/27 14:50
  * @description：适配器最终提供的类，它继承缺省适配器，override需要使用的方法，其它的方法不使用。
  * 使用缺省适配器的原因在于：

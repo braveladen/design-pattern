@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.observer.观察者;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/26 8:49
  * @description：调用类
  * 观察者与被观察者之间的观察关系，有两种建立方式：

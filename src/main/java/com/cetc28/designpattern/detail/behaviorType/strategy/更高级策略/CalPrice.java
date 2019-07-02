@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.strategy.更高级策略;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/27 13:37
  * @description：策略接口
  * 在高级策略的基础上，又增加了新的策略规则，且新的策略规则要与老的策略规划重叠使用，相当于有两套重叠使用的策略。

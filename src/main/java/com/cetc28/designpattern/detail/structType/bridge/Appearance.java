@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.structType.bridge;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/7/1 11:11
  * @description：外貌接口
  * @modified By：

@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.memento;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/7/1 19:45
  * @description：调用类
  * 备忘录模式顾名思义就是为对象生成了一个备忘副本，以便进行恢复或者对副本进行监控。

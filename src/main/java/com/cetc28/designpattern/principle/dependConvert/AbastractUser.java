@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.principle.dependConvert;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/24 11:20
  * @description：
  * 采用面向抽象类编程的思想，来保证依赖倒置原则。

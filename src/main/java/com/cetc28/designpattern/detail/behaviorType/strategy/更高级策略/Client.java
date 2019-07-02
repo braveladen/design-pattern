@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.strategy.更高级策略;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/27 14:02
  * @description：
  * @modified By：

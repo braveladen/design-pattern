@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.createType.builder;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/7/1 18:42
  * @description：灵魂类，指挥者
  * 指挥者负责执行建造过程，即通过调用建造者接口的建造方法，实现建造过程。

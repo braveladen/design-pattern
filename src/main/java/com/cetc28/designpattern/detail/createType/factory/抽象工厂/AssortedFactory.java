@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.createType.factory.抽象工厂;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/25 19:00
  * @description：将自己的工厂方法，与第三方jar包中的工厂方法进行整合
  * 第三方jar包中的工厂方法是不能改动的，如果我们需要对第三方Jar包的工厂方法进行扩展：

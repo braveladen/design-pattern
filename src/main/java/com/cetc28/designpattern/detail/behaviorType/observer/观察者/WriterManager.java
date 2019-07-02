@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.observer.观察者;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/26 8:47
  * @description：作者管理类
  * 作者管理类的作用是保证每一个作者实例的唯一性

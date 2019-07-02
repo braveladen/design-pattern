@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.principle.liReplace;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/24 9:51
  * @description：
  * 里氏替换原则是指子类可以替换父类进行工作，也即我们在给其它服务用的时候，直接提供父类的接口方法，但是是实际使用时，可以使用子类的方法。

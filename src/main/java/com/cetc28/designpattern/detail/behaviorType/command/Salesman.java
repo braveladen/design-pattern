@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.command;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/29 13:49
  * @description：市场业务人员
  * @modified By：

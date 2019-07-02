@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.mediator;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/7/1 9:52
  * @description：模式联盟，中介者
  * 中介者用来将网状结构的类依赖关系,转换为星形结构的类依赖关系.

@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.LinkedList;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/7/2 9:38
  * @description：没用迭代器的实现类
  * 在不使用迭代器的情况下，我们遍历集合的方式为：先把集合转为数组，然后对数组进行遍历。

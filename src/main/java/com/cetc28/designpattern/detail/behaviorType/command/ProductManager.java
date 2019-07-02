@@ -5,7 +5,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/29 13:39
  * @description：产品经理
  * 这个类相当于命令模式中的的invoker，即方法的调用者，由它进行命令的调用。

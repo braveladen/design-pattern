@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.structType.proxy.静态代理;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/24 18:21
  * @description：静态代理类
  * 静态代理类的特征有三点，分别是：

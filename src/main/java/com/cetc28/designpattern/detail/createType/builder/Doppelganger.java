@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.createType.builder;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/7/1 18:40
  * @description：分身类
  * 被建造元素的实体类

@@ -4,7 +4,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/27 15:39
  * @description：对象适配器
  * 对象适配器是因为类适配器没法用了，才用对象适配器。如果我们需要适配两个类，由于java是单继承的，所以没法使用类适配器。

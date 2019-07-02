@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.createType.builder;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/7/1 18:39
  * @description：分身制造者接口
  * 建造者接口，该接口将复杂元素的建造过程抽象成接口；

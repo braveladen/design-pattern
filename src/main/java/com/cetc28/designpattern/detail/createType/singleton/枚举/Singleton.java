@@ -3,7 +3,7 @@ package com.cetc28.designpattern.detail.createType.singleton.枚举;
 import java.io.Serializable;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/24 14:03
  * @description：枚举单例
  * 有专家说过，枚举单例是实现单例模式的最佳方式，原因如下：

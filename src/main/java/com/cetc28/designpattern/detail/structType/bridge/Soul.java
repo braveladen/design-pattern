@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.structType.bridge;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/7/1 11:12
  * @description：抽象灵魂类
  * 桥接模式应用于实体类有两个或多个维度的变化，如外貌和技能两个维度。

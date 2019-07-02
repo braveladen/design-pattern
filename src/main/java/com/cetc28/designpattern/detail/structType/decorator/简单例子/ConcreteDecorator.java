@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.structType.decorator.简单例子;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/28 15:35
  * @description：
  * @modified By：

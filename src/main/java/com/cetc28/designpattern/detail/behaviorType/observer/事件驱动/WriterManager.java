@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/26 9:10
  * @description：作者管理类
  * 事件驱动模型适用于：请求（request）--响应（response），事件发生（occur）--事件处理（handle）

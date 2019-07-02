@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.principle.dependConvert;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/24 11:26
  * @description：
  * 依赖倒置原则不仅有抽象类一种实现方法，还有接口类的实现方法，也即面向接口编程。

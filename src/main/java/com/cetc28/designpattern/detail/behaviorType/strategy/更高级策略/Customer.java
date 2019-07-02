@@ -4,7 +4,7 @@ import com.cetc28.designpattern.detail.behaviorType.strategy.更高级策略.Cal
 import com.cetc28.designpattern.detail.behaviorType.strategy.更高级策略.CalPriceFactory;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/26 15:31
  * @description：
  * @modified By：

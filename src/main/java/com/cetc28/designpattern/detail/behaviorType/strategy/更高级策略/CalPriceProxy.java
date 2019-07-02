@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.behaviorType.strategy.更高级策略;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/27 13:37
  * @description：动态代理类
  * 这个动态代理类代理了所有实现CalPrice接口的类，也即所有的策略类

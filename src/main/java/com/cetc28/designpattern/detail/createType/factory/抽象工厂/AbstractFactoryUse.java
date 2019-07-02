@@ -1,7 +1,7 @@
 package com.cetc28.designpattern.detail.createType.factory.抽象工厂;
 
 /**
- * @author ：mmzs
+ * @author ：braveladen
  * @date ：Created in 2019/6/25 18:53
  * @description：抽象工厂类
  * 抽象工厂类在工厂方法的基础之上，又支持了一个抽象工厂里可以有多个产品体系。
