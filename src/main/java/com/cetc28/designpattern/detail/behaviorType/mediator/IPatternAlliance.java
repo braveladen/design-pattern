@@ -5,12 +5,12 @@ package com.cetc28.designpattern.detail.behaviorType.mediator;
 public interface IPatternAlliance {
 
     //加入联盟
-    public abstract void add(School school);
+    void add(School school);
 
     //联盟攻击
-    public abstract void resolveAttack(School activeSide, School passiveSide);
+    void resolveAttack(School activeSide, School passiveSide);
 
     //联盟防御
-    public abstract void resolveDefense(School passiveSide);
+    void resolveDefense(School passiveSide);
 
 }

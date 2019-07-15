@@ -22,7 +22,6 @@ public class Client {
         //所以需要注意的是在使用flyWeight2后，一定不能再次使用flyweigt1，否则会出现数据错乱的问题
         System.out.println(flyWeight.toString());
 
-
         PenFlyWeight flyWeight3 = FlyweightFactory.getFlyWeight("毛笔");
         flyWeight3.setColor("黄色颜料");
         System.out.println(flyWeight3.toString());

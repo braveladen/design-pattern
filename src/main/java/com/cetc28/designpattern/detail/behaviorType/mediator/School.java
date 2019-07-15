@@ -35,3 +35,47 @@ public abstract class School {
 
     public abstract String getName();
 }
+class CommandSchool extends School {
+    public CommandSchool(IPatternAlliance patternAlliance){
+        super(patternAlliance);
+    }
+
+    @Override
+    public String getName() {
+        return "命令门";
+    }
+}
+class SingletonSchool extends School{
+
+    public SingletonSchool(IPatternAlliance patternAlliance) {
+        super(patternAlliance);
+    }
+
+    @Override
+    public String getName() {
+        return "单例宗";
+    }
+
+}
+class StrategySchool extends School{
+
+    public StrategySchool(IPatternAlliance patternAlliance) {
+        super(patternAlliance);
+    }
+    @Override
+    public String getName() {
+        return "策略宫";
+    }
+
+}
+class MediatorSchool extends School{
+
+    public MediatorSchool(IPatternAlliance patternAlliance) {
+        super(patternAlliance);
+    }
+    @Override
+    public String getName() {
+        return "中介者神阁";
+    }
+
+}

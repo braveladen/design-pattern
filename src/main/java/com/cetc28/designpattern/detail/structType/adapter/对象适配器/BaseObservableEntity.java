@@ -18,7 +18,12 @@ import java.util.Observer;
 //我们扩展BaseEntity,适配出来一个可观察的实体基类
 public class BaseObservableEntity extends BaseEntity{
 
-    private Observable observable = new Observable();
+//    private Observable observable = new Observable();
+
+    private Observable observable;
+    public BaseObservableEntity(Observable observable){
+        this.observable = observable;
+    }
 
     public synchronized void addObserver(Observer o) {
         observable.addObserver(o);

@@ -13,3 +13,58 @@ public interface Task {
     void handle();
     Programmer getProgrammer();
 }
+class Bug implements Task {
+    private Programmer programmer;
+    public Bug(Programmer programmer){
+        this.programmer = programmer;
+    }
+    @Override
+    public Programmer getProgrammer(){
+        return programmer;
+    }
+    @Override
+    public void handle() {
+        programmer.handleBug();
+    }
+    @Override
+    public String toString(){
+        return "Bug【Programer="+programmer.getName()+"】";
+    }
+}
+class Demand implements Task {
+    private Programmer programmer;
+    public Demand(Programmer programmer){
+        super();
+        this.programmer = programmer;
+    }
+    @Override
+    public Programmer getProgrammer(){
+        return programmer;
+    }
+    @Override
+    public void handle() {
+        programmer.handleDemand();
+    }
+    @Override
+    public String toString(){
+        return "Demand【Programer="+programmer.getName()+"】";
+    }
+}
+class Problem implements Task {
+    private Programmer programmer;
+    public Problem(Programmer programmer){
+        this.programmer = programmer;
+    }
+    @Override
+    public Programmer getProgrammer(){
+        return programmer;
+    }
+    @Override
+    public void handle() {
+        programmer.handleProblem();
+    }
+    @Override
+    public String toString(){
+        return "Problem【Programer="+programmer.getName()+"】";
+    }
+}

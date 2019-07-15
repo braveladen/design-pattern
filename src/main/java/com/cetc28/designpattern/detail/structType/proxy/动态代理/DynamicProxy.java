@@ -4,7 +4,7 @@ package com.cetc28.designpattern.detail.structType.proxy.动态代理;
  * @author ：braveladen
  * @date ：Created in 2019/6/24 18:37
  * @description：动态代理类
- * 通常我们代理接口的时候，也不会会增加他的全部方法，所以在invoke里，我们判断method的属性，来确定给哪些方法增加，比如指定的方法名、指定的方法上注解等。
+ * 通常我们代理接口的时候，也不会增强他的全部方法，所以在invoke里，我们判断method的属性，来确定给哪些方法增加，比如指定的方法名、指定的方法上注解等。
  * 动态代理生成的Proxy对象，其实是一个InvocationHandler的实现类对象，而不是原接口的实现类对象，只不过在这个InvocationHandler实现类对象中，可以通过反射生成原接口实现类对象，并调用其方法。
  * 目前AOP已经把动态代理封装的很好的，所以我们在写代码的时候不需要自己手动写动态代理。
  * @modified By：
