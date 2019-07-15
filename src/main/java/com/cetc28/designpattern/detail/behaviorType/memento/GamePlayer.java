@@ -22,7 +22,6 @@ public class GamePlayer {
         this.hp = hp;
         this.mp = mp;
         this.level = level;
-
     }
 
     //各属性的get、set
